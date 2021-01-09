@@ -15,13 +15,8 @@ cooldownusers = []
 bannedusers = []
  
  
-
  
 client = discord.Client()
-
-
-
-
 
 
 clientmongo = MongoClient("mongodb+srv://USER:PASSWORD@DATABASENAME.hgwxo.mongodb.net/DATABASENAME?retryWrites=true&w=majority")
